@@ -1,0 +1,7 @@
+requests
+urllib.parse
+psutil
+time
+datetime
+subprocess
+
