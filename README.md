@@ -15,12 +15,16 @@ Python 3.10 (requests,urllib.parse,psutil,time,datetime,subprocess)
 
 Usage (only on Windows):
 1.You can get the target id and guild_id when runing the script at first. And you can get the data like this (press ctrl+c to stop):
+
 ![image](https://github.com/wtfllix/palworldrestartkook/assets/118681340/f5454e64-729e-42c5-a990-c05e6bb27dde)
+
 2.Search those variables in the script and Change and get the token from kook(https://developer.kookapp.cn/app/index).
 3.Open the script in cmd or powershell and say yes. (python palworld_server_restart.py).
 
 
 * 效果：
+* 
 * ![image](https://github.com/wtfllix/palworldrestartkook/assets/118681340/3952750d-7e7d-4d97-aa60-7d3c073c63f8)
+
 * Very poor skill for writing script, please ignore.
   
