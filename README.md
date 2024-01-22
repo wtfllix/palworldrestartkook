@@ -24,7 +24,8 @@ Usage (only on Windows):
 
 * 效果：
 * 
-* ![image](https://github.com/wtfllix/palworldrestartkook/assets/118681340/3952750d-7e7d-4d97-aa60-7d3c073c63f8)
+![image](https://github.com/wtfllix/palworldrestartkook/assets/118681340/7f23ca13-47ab-4640-8c81-d37c5ab03a64)
+
 
 * Very poor skill for writing script, please ignore.
   
