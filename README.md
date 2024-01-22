@@ -18,7 +18,7 @@ Usage (only on Windows):
 
 ![image](https://github.com/wtfllix/palworldrestartkook/assets/118681340/f5454e64-729e-42c5-a990-c05e6bb27dde)
 
-2. Search those variables in the script and Change and get the token from kook(https://developer.kookapp.cn/app/index).
+2. Search those variables in the script and Change and get the token from kook(https://developer.kookapp.cn/app/index). If you don't need kook it's ok, just ignore the errors.
 3. Open the script in cmd or powershell and say yes. (python palworld_server_restart.py).
 
 
